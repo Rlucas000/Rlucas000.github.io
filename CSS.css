@@ -1,0 +1,17 @@
+body {
+color:black;
+background-color:white;
+background-image:url(stockbig.gif);
+margin:0;
+}
+.image {
+    width: 200px;
+    margin-left: 600px;
+}
+.accueil {
+    margin-left: 650px;
+}
+.graph {
+    width: 500px;
+    margin-left: 500px;
+}
